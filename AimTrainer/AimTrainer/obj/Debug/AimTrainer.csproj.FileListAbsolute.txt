@@ -1,0 +1,26 @@
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\AimTrainer.csproj.AssemblyReference.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\AimTrainer.csproj.ResolveComReference.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\AimTrainer._1Min_Mode.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\Aim_Trainer.Menue.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\Aim_Trainer.Startseite.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\AimTrainer.Endless_Mode.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\TestForms.Properties.Resources.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\AimTrainer.csproj.GenerateResource.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\AimTrainer.csproj.CoreCompileInputs.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\TestForms.exe
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\testForms - Kopie\AimTrainer\obj\Debug\TestForms.pdb
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\AimTrainer.csproj.AssemblyReference.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\Interop.MediaPlayer.dll
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\AimTrainer.csproj.ResolveComReference.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\AimTrainer._1Min_Mode.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\Aim_Trainer.Menue.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\Aim_Trainer.Startseite.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\AimTrainer.Endless_Mode.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\TestForms.Properties.Resources.resources
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\AimTrainer.csproj.GenerateResource.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\AimTrainer.csproj.CoreCompileInputs.cache
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\TestForms.exe
+C:\Users\kanis\OneDrive - Alte Kantonsschule Aarau\Documents\Bewerbung\AimTrainer\AimTrainer\obj\Debug\TestForms.pdb
